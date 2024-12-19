@@ -39,7 +39,7 @@ A simple and responsive login webpage designed using HTML and CSS. This project 
 
 ## Preview
 
-![Login Page Preview](https://via.placeholder.com/800x400?text=Login+Page+Preview)
+![Login Page Preview](https://github.com/sumitmochahary/signup-page/blob/main/image/signup-page-preview.png)
 
 *Replace the above link with a screenshot of your login page if available.*
 
